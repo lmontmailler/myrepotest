@@ -3,3 +3,4 @@ Here is my file.
 Bug fixed.
 this is my last modification before creating a new branch.
 Modification done on branch 'master'.
+Modification done on branch 'new_branch'.
