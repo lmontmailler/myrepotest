@@ -1,4 +1,5 @@
 Here is my file.
 //Oooops, this is a bug !
 Bug fixed.
-And now a new modification...
+this is my last modification before creating a new branch.
+Modification done on branch 'master'.
