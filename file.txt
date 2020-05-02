@@ -6,3 +6,5 @@ Modification done on branch 'master'.
 Modification done on branch 'new_branch'.
 Last line added from master.
 Last line modified from dev_branch.
+
+Here is a new feature, proposed in a new branch, 'with a pull request'. 
