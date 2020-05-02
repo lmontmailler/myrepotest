@@ -2,3 +2,4 @@ Here is my file.
 //Oooops, this is a bug !
 Bug fixed.
 And now a new modification...
+Modification done on branch 'new_branch'.
